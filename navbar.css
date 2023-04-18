@@ -1,0 +1,31 @@
+.navbar{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 50px;
+    background: rgba(207, 205, 205, 0.404);
+    padding: 10px 100px;
+    position: relative;
+    background-color: blue;
+}
+
+.navbar > * {
+    margin-right: 20px;
+    text-decoration: none;
+    color: black; 
+   
+
+}
+.navbar .navbar_logo{
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+   
+}
+/* .navbar_logo{
+    color:white;
+    text-decoration: none;
+} */
+.logo{
+    color: white;
+}
